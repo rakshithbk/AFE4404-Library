@@ -1,6 +1,6 @@
 /*
  * AFE4404 Basic Read library example.
- * 
+ * https://github.com/rakshithbk/AFE4404-Library
  * 
  * On Arduino Uno -  | AFE4404 | Uno Pin
  *                   | I2C_Dat | A4
